@@ -2,3 +2,5 @@ sheep
 goat
 pig
 dog
+cow
+horse
